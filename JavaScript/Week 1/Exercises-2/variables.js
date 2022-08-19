@@ -1,3 +1,5 @@
+// exercise 1
+
 let stringVal = 'I am a string!';
 let numVal = 1993;
 let boolVal = false;

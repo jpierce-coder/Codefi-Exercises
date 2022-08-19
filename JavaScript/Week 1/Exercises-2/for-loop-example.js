@@ -1,6 +1,12 @@
 
+//exercise 4
+let students = ['John', 'Jane', 'Jimmy'];
 
+for (let i = 0; i < students.length; i++) {
+    console.log(students[i])
+}
 
+// exercise 5
 let people = [
     {
       name: "James",

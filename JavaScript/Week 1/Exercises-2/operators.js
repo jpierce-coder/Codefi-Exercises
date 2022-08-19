@@ -1,3 +1,5 @@
+// exercise 2
+
 console.log('Hi there, ' + 'my name is John.');
 console.log(24 - 12);
 console.log(2543 / 12);

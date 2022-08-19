@@ -1,3 +1,5 @@
+// exercise 3
+
 if (12 === 13 || 13 !== 14) {
     console.log('One of these statements is true.');
 } else if (13 === 13 && 44 !== 54) {
