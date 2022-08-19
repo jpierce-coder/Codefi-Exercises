@@ -1,0 +1,11 @@
+1. What are data types?
+A: Data types are different containers in which values reside. 
+
+2. What are operators used for?
+A: Operators are used to change, or alter the value of most data types.
+
+3. What are conditional statements?
+A: Conditional statements are used to check defined conditions, and then execute code based on whether the conditions are truthy/falsy. 
+
+4. What are loops?
+A: Loops are statements (for, while, if statements) that will execute blocks of code and will continue to execute them until defined conditions are met.
