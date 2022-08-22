@@ -1,0 +1,5 @@
+- A return function is a function that returns a value, whereas a void function is a function that returns no value.
+
+- An object is a data structure that represents key-value pairs.
+- An object is NOT a function
+- Create Notes.txt, warm
