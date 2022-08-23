@@ -17,3 +17,10 @@ function calcArea(width, height) {
 
     return result;
 };
+
+
+
+
+fishList.forEach(fish => {
+    console.log(fish);
+});

@@ -63,12 +63,12 @@
 			// } while (i < dogs.length);
 
 			// for...of iterator           BEST PRACTICE
-			// for (let dog of dogs) {
-			// 	const dogData = document.createElement("li");
-			// 	dogData.classList.add("jumbotron", "text-center");
-			// 	dogData.innerText = `${dog.name} is a ${dog.type}`;
-			// 	dogsList.appendChild(dogData);
-			// }
+			for (let dog of dogs) {
+				const dogData = document.createElement("li");
+				dogData.classList.add("jumbotron", "text-center");
+				dogData.innerText = `${dog.name} is a ${dog.type}`;
+				dogsList.appendChild(dogData);
+			}
 		</script>
 	</body>
 </html>
